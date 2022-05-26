@@ -21,7 +21,7 @@
 ---
 
 ## :man_technologist: About Me
-Science and Tech enthu from Indonesia. I am graduated of bachelor engineering majoring in engineering physics.
+Science and Tech enthu from Indonesia. I am a bachelor of engineering with a major in engineering physics.
 
 Currently learning to be Front-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 
